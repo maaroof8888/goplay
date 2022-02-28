@@ -2,3 +2,4 @@
 [selection sort](https://go.dev/play/p/4-9iR3gS8fT "unstable sort, danger ahead")      
 [slice length and capacity](https://go.dev/play/p/5SdH0A0wERG "double the initial length")        
 [merge sort using extra memory](https://go.dev/play/p/DlF-DjQCPC4 "the called function should start with CAPS")  
+[any continuous sum in an array is equal to target](https://go.dev/play/p/WFwYRDu7Oc5)    
